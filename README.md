@@ -36,7 +36,8 @@
 - `recommendations` : 리스크 유형별 개선 권고안 리스트
 
 ## Architecture
-![architecture](./assets/ethics_risk_graph.png)
+![image](https://github.com/user-attachments/assets/5e739f7d-9ef4-4e15-bfae-9f1037d3c166)
+
 
 ## Directory Structure
 ├── data/                  # AI 서비스 메타정보 및 샘플 진단 데이터  
